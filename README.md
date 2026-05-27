@@ -1,8 +1,3 @@
-# Recipe_Project
-
-Here's the updated README with **only HTML and CSS** (no Python or JavaScript):
-
-***
 
 # 🍳 Recipe Project
 
